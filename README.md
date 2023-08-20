@@ -9,3 +9,5 @@
 <h1>Dashboard</h1>
 <img src ="img/resim11.png">
 <img src ="img/resim12.png">
+
+<p>A dashboard was prepared with Looker Studio. The data was visualized and analyzed. Latitude and longitude data for the map section were created using the COUNT function. Each point on the map represents a location.</p>
