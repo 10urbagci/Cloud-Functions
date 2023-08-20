@@ -1,5 +1,5 @@
 # Cloud Functions
-<img src = "img/project_arc.png">
+<img src = "img/proje_mimarisi.PNG">
 
 <p>Cloud Storage is set to trigger with Cloud Functions.</p>
 
